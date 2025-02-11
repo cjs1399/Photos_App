@@ -1,0 +1,13 @@
+{
+  "exposure": 0.0,
+  "brightness": 0.1,
+  "contrast": 1.1,
+  "saturation": 0.9,
+  "temperature": 6400,
+  "sharpness": 1.0,
+  "highlight": 0.6,
+  "shadow": 0.4,
+  "clarity": 0.3,
+  "vignette": 0.4,
+  "noiseReduction": 0.6
+}
